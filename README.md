@@ -25,7 +25,7 @@ Email: bharathhegde2005@gmail.com
 
 Suprise Housing.ipynb : Contains the Python code used for building the model
 
-Advance Assignment Part 2 questions.pdf : contains the answers to the additional questions.
+AssignmentQuestions.pdf : contains the answers to the additional questions.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
